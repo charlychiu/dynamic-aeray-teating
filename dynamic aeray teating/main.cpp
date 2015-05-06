@@ -21,7 +21,7 @@ int main(int argc, const char * argv[]) {
     {
         for(int j=0;j<5;j++)
         {
-            array[i][j]=i*j;
+            array[i][j]=(i+1)*(j+1);
             cout<<setw(5)<<array[i][j];
         }
         cout<<endl;

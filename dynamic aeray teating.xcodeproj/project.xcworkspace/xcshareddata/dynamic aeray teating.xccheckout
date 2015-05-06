@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>A8F36C09-97F3-4002-8732-9B7173C3984C</string>
+	<key>IDESourceControlProjectName</key>
+	<string>dynamic aeray teating</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>BA00CB9F6ED384513189D69DDCC9E9CE02ABD844</key>
+		<string>https://github.com/charlychiu/dynamic-aeray-teating.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>dynamic aeray teating.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>BA00CB9F6ED384513189D69DDCC9E9CE02ABD844</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/charlychiu/dynamic-aeray-teating.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>BA00CB9F6ED384513189D69DDCC9E9CE02ABD844</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>BA00CB9F6ED384513189D69DDCC9E9CE02ABD844</string>
+			<key>IDESourceControlWCCName</key>
+			<string>dynamic%20aeray%20teating</string>
+		</dict>
+	</array>
+</dict>
+</plist>
