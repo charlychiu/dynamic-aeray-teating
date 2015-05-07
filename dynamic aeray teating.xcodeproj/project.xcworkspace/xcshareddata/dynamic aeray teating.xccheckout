@@ -7,14 +7,14 @@
 	<key>IDESourceControlProjectIdentifier</key>
 	<string>A8F36C09-97F3-4002-8732-9B7173C3984C</string>
 	<key>IDESourceControlProjectName</key>
-	<string>dynamic aeray teating</string>
+	<string>project</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
 		<key>BA00CB9F6ED384513189D69DDCC9E9CE02ABD844</key>
 		<string>https://github.com/charlychiu/dynamic-aeray-teating.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>dynamic aeray teating.xcodeproj</string>
+	<string>dynamic aeray teating.xcodeproj/project.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>BA00CB9F6ED384513189D69DDCC9E9CE02ABD844</key>
